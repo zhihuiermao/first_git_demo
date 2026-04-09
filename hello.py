@@ -2,7 +2,6 @@
 
 
 
+print("hello GitHub")
 
-print("helloworld")
-
-
+90000
